@@ -59,3 +59,5 @@ For any questions or support, please contact laetitia.ama@gmail.com.
 
 Feel free to contribute to the project by enhancing its features, improving the UI, or fixing any issues. Your feedback and contributions are highly appreciated!
 
+Link of deploy application : 
+https://audidi29.github.io/Weather-Dashboard-Forecast/
