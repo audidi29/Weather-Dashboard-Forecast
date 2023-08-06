@@ -19,7 +19,8 @@ Users can click on a previously searched city in the history to retrieve its cur
 
 ## How to Use
 
-![alt text](asset![image](https://github.com/audidi29/Weather-Dashboard-Forecast/assets/131299841/12b57182-4fd8-4967-be3c-093f609f7fae)
+![image](https://github.com/audidi29/Weather-Dashboard-Forecast/assets/131299841/9d294d95-3b97-4a03-8a47-6469643037c9)
+
 
 
 Open the Weather Dashboard in your preferred web browser.
